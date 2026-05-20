@@ -33,11 +33,10 @@ We used the **Yale New Haven Hospital (YNHH) Emergency Department dataset** — 
 ## Repository Structure
 
 ```
-CSE351-ER-Receptionist/
+AI-ER-Hospital-Receptionist/
 │
 ├── ER_Receptionist.ipynb     # Full training pipeline (data → models)
 ├── app.py                    # Desktop application (CustomTkinter)
-├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 │
 └── models/                   # Trained model files (see below)
